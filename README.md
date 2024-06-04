@@ -7,7 +7,7 @@ Számítsa ki egy orsószferoid (ha két végét csonkoljuk boroshordó) térfog
 
 Képlet:
 
-V=${{4pi}\over3}a{b^2}$
+$ V={{4pi}\over3}a{b^2} $
 
 Mentés: foldter
 
