@@ -1,3 +1,13 @@
+/*
+* File: app.ts
+* Author: Komáromi János
+* Copyright: 2024, Komáromi János
+* Group: Szoft V
+* Date: 2024-06-04
+* Github: https://github.com/KomaromiJano/
+* Licenc: GNU GPL
+*/
+
 class Orsoferoid {
 
     sideAInput?: HTMLInputElement | null;
